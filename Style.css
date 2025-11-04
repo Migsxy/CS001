@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://www.cataloniahotels.com/en/blog/wp-content/uploads/2018/07/Catalonia-Bavaro-Resort_Baja.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heading{
+    padding: 30px;
+    color: red;
+}
+.navigation{
+    background-color:red;
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+    margin: 10px;
+    float: left;
+}
